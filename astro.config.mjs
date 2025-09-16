@@ -6,7 +6,6 @@ import starlightThemeRapide from 'starlight-theme-rapide'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://stockpilotai.github.io/EstocAI-Documentation',
-	base: '/EstocAI-Documentation',
 	integrations: [
 		starlight({
 			title: 'EstocAI',
