@@ -1,0 +1,38 @@
+/* Diminuir a largura do Table of Contents */
+@media (min-width: 72rem) {
+  .sl-container .right-sidebar {
+    width: 10rem !important; /* Padrão é 18rem */
+    flex-shrink: 0 !important;
+  }
+  
+  /* Ajustar o conteúdo principal para compensar a mudança */
+  .sl-container .main-frame {
+    padding-inline-end: 13rem !important; /* Padrão é 19rem */
+  }
+}
+
+/* Para telas ainda maiores */
+@media (min-width: 82rem) {
+  .sl-container .right-sidebar {
+    width: 14rem !important; /* Padrão é 20rem */
+  }
+  
+  .sl-container .main-frame {
+    padding-inline-end: 15rem !important; /* Padrão é 21rem */
+  }
+}
+
+/* Ajustar o tamanho da fonte do ToC para caber melhor */
+.right-sidebar nav a {
+  font-size: 0.875rem !important;
+  line-height: 1.4 !important;
+}
+
+/* Reduzir o padding interno do ToC */
+.right-sidebar nav > ul {
+  padding-inline-start: 0.75rem !important;
+}
+
+.right-sidebar nav ul ul {
+  padding-inline-start: 1rem !important;
+}

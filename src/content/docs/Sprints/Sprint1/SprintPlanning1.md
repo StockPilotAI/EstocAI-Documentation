@@ -1,6 +1,11 @@
-# Sprint 01 - Planning
+---
+title: Sprint Planning 1
+description: A reference page in my new Starlight docs site.
+---
 
-## Informações Básicas da Sprint
+## Sprint 01 - Planning
+
+### Informações Básicas da Sprint
 
 | Sprint  | 1             |
 |---------|---------------|
@@ -9,7 +14,7 @@
 | Término | 29/09/2025    |
 | Duração | 14 dias       |                                      
 
-## Sprint Backlog
+### Sprint Backlog
 
 | Issue | Descrição | Responsável | Escopo |
 |-------|-----------|--------------|--------|
@@ -19,12 +24,14 @@
 | [#04](https://github.com/StockPilotAI/EstocAI-Documentation/issues/4) | Setup inicial do ambiente de desenvolvimento | Vinícius Mendes | **SHOULD HAVE** - Configuração de repositórios, CI/CD básico |
 | [#05](https://github.com/StockPilotAI/EstocAI-Documentation/issues/5) | Continuação da monografia | Ambos | **SHOULD HAVE** - Documento com introdução, objetivos e referencial teórico |
 
-## Overview da Sprint Planning
+### Overview da Sprint Planning
 
-### Objetivos da Sprint
+#### Objetivos da Sprint
+
 Esta primeira sprint tem como objetivo principal estabelecer as bases do projeto EstocAI, focando na pesquisa de mercado, identificação de clientes e definição da arquitetura inicial. Como temos um prazo apertado (até dezembro 2025) e precisamos encontrar um cliente real para validar nossa solução, priorizamos as atividades que nos darão uma visão clara do mercado e das necessidades dos possíveis usuários.
 
-### Critérios de Aceitação da Sprint
+#### Critérios de Aceitação da Sprint
+
 - [ ] Primeiro contato com potenciais clientes
 - [ ] Documento de requisitos funcionais aprovado por ambos os membros
 - [ ] Arquitetura de alto nível definida e documentada
@@ -32,12 +39,13 @@ Esta primeira sprint tem como objetivo principal estabelecer as bases do projeto
 - [ ] Pelo menos 1 cliente demonstrou interesse em participar do projeto
 - [ ] Monografia com visão, objetivos e escopo do projeto
 
-### Próximos Passos (Sprint 2)
+#### Próximos Passos (Sprint 2)
+
 - Validação dos requisitos com cliente selecionado
 - Desenvolvimento do MVP (Minimum Viable Product)
 - Implementação das funcionalidades core do sistema
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |

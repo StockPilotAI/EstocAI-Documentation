@@ -1,5 +1,5 @@
 ---
-title: Welcome to Starlight
+title: EstocAI Documentations
 description: Get started building your docs site with Starlight.
 template: splash
 hero:
@@ -7,20 +7,22 @@ hero:
   image:
     file: ../../assets/houston.webp
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Project Overview
+      link: /projectstructuringstandard/overview/
       icon: right-arrow
     - text: Read the Starlight docs
       link: https://starlight.astro.build
       icon: external
       variant: minimal
 ---
-
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 ## Next steps
 
 <CardGrid stagger>
+	<Card title="Project Structure Overview" icon="document">
+		Learn about our project structuring standards in the [Overview page](/projectstructuringstandard/overview/).
+	</Card>
 	<Card title="Update content" icon="pencil">
 		Edit `src/content/docs/index.mdx` to see this page change.
 	</Card>

@@ -1,6 +1,11 @@
-# Sprint XX - Review
+---
+title: Sprint Review Template
+description: A reference page in my new Starlight docs site.
+---
 
-## Informações Básicas da Sprint
+## Sprint XX - Review
+
+### Informações Básicas da Sprint
 
 | Sprint  | XX            |
 |---------|---------------|
@@ -9,17 +14,19 @@
 | Duração | x dias        |
 | Data da Revisão | xx/xx/2025 |
 
-## Objetivos da Sprint (Planejado vs Executado)
+### Objetivos da Sprint (Planejado vs Executado)
 
-### ✅ Objetivos Alcançados
+#### ✅ Objetivos Alcançados
+
 - [ ] Objetivo 1 - **STATUS**: Concluído/Parcial/Não iniciado
 - [ ] Objetivo 2 - **STATUS**: Concluído/Parcial/Não iniciado
 - [ ] Objetivo 3 - **STATUS**: Concluído/Parcial/Não iniciado
 
-### ❌ Objetivos Não Alcançados
+#### ❌ Objetivos Não Alcançados
+
 - Objetivo que não foi concluído - **MOTIVO**: [explicação]
 
-## Sprint Backlog - Resultados
+### Sprint Backlog - Resultados
 
 | Issue | Descrição | Responsável | Status | Observações |
 |-------|-----------|-------------|--------|-------------|
@@ -27,7 +34,7 @@
 | [#xx](https://github.com/StockPilotAI/EstocAI-Documentation/issues/xx) | Descrição da tarefa | Nome | ⚠️ Parcial | O que falta ser feito |
 | [#xx](https://github.com/StockPilotAI/EstocAI-Documentation/issues/xx) | Descrição da tarefa | Nome | ❌ Não iniciado | Motivo da não execução |
 
-## Métricas da Sprint
+### Métricas da Sprint
 
 | Métrica | Planejado | Realizado |
 |---------|-----------|-----------|
@@ -35,12 +42,13 @@
 | **Issues Concluídas** | X | Y |
 | **Taxa de Conclusão** | 100% | Y% |
 
-### Ações para a próxima Sprint
+#### Ações para a próxima Sprint
+
 - [ ] Ação de melhoria 1
 - [ ] Ação de melhoria 2
 - [ ] Ação de melhoria 3
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |

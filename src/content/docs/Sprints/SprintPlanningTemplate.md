@@ -1,6 +1,11 @@
-# Sprint XX - Planning
+---
+title: Sprint Planning Template
+description: A reference page in my new Starlight docs site.
+---
 
-## Informações Básicas da Sprint
+## Sprint XX - Planning
+
+### Informações Básicas da Sprint
 
 | Sprint  | XX            |
 |---------|---------------|
@@ -9,28 +14,31 @@
 | Término | xx/xx/2025    |
 | Duração | x dias        |
 
-## Sprint Backlog
+### Sprint Backlog
 
 | Issue | Descrição | Responsável | Escopo |
 |-------|-----------|--------------|--------|
 | [#xx](https://github.com/StockPilotAI/EstocAI-Documentation/issues/xx) | Descrição da tarefa | Nome do Responsável | **MUST/SHOULD/COULD HAVE** - Detalhes do escopo |
 
-## Overview da Sprint Planning
+### Overview da Sprint Planning
 
-### Objetivos da Sprint
+#### Objetivos da Sprint
+
 [Descrever os principais objetivos e metas da sprint]
 
-### Critérios de Aceitação da Sprint
+#### Critérios de Aceitação da Sprint
+
 - [ ] Critério 1
 - [ ] Critério 2
 - [ ] Critério 3
 
-### Próximos Passos (Sprint XX+1)
+#### Próximos Passos (Sprint XX+1)
+
 - Ação 1
 - Ação 2
 - Ação 3
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |
