@@ -1,0 +1,39 @@
+name: Nova Tarefa
+description: Descreva uma nova tarefa, funcionalidade ou melhoria a ser desenvolvida.
+title: "[TASK]: "
+labels: ["task", "enhancement"]
+projects: ["StockPilotAI/projects/1"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este template para detalhar uma nova tarefa. Forneça o máximo de contexto possível.
+
+  - type: textarea
+    id: descricao-tarefa
+    attributes:
+      label: Descrição da Tarefa
+      description: "Qual é o objetivo principal desta tarefa? Qual problema ela resolve ou que valor ela agrega?"
+      placeholder: "Ex: Criar o endpoint de autenticação de usuários..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: criterios-aceite
+    attributes:
+      label: Critérios de Aceite
+      description: "Como saberemos que a tarefa foi concluída com sucesso? Liste os requisitos que devem ser atendidos."
+      placeholder: |
+        - [ ] O endpoint deve retornar um token JWT em caso de sucesso.
+        - [ ] A senha deve ser criptografada no banco de dados.
+        - [ ] Deve retornar erro 401 para credenciais inválidas.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto-adicional
+    attributes:
+      label: Contexto Adicional ou Anexos
+      description: "Adicione qualquer outra informação, mockups, links para documentação ou screenshots que possam ajudar a completar a tarefa."

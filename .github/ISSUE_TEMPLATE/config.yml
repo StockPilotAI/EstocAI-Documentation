@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Dúvidas e Discussões
+    url: https://github.com/your-org/your-repo/discussions
+    about: Por favor, use as Discussões para tirar dúvidas ou iniciar uma conversa.
+  - name: 📚 Leia a Documentação
+    url: https://link-para-sua-doc.com
+    about: Verifique nossa documentação antes de abrir uma issue.
