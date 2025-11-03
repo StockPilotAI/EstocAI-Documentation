@@ -12,7 +12,7 @@ Como foi dito, esta técnica é realizada pelo próprio avaliador, levando em co
 ## Metodologia
 Para a preparação da técnica, foi necessário elaborar mentalmente um cenário de como o sistema deve ser para um usuário que busca resolver um determinado problema.
 
-O cenário imaginário elaborado foi: "Um gerente de uma empresa pretende usar o sistema de gestão de estoques EstocAI para gerenciar os produtos que existem na empresa, conseguir consultar previsões sobre a entrada e saída de produtos, detectar possíveis erros dentro do seu gerenciamento, analisar métricas e verificar informações sobre os produtos cadastrados.
+O cenário imaginário elaborado foi: "Um gerente de uma empresa pretende usar o sistema de gestão de estoques EstocAI para gerenciar os produtos que existem na empresa, conseguir consultar previsões sobre a entrada e saída de produtos, detectar possíveis erros dentro do seu gerenciamento, analisar métricas e verificar informações sobre os produtos cadastrados."
 
 ## Requisitos Elicitados
 Após o exercício mental de utilizar o software do EstocAI para solucionar o problema de um usuário imaginário, conseguimos eliciar os requisitos apresentados na Tabela 1. Identificamos cada requisito por uma sigla formada por "ITP" + um número. Para representar o tipo do requisito, serão usadas as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional.
@@ -24,20 +24,19 @@ Após o exercício mental de utilizar o software do EstocAI para solucionar o pr
 | **Identificador** | **Requisitos** | **Tipo** |
 |--------------|-------------|-----|
 |ITP01 |Login pela UI ou por serviço de terceiros  		|RF |  
-|ITP02 |Aplicativo permite visualizar a politica de privacidade								|RF   |   |
+|ITP02 |Aplicativo permite criar, listar, deletar e atualizar os produtos								|RF   |   |
 |ITP03 |Aplicativo possui interface simples 													|RNF        |
 |ITP04 |Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF  |
 |ITP05 |Aplicativo possui modo escuro/claro																|RNF  |
-|ITP06 |	|RF   |  
-|ITP07 |	|RF   |   
-|ITP08 |	|RNF  |
-|ITP09 |	|RNF  |
-|ITP10 |	|RNF  |
-|ITP11 |  	|RF   |  
-|ITP12 |	|RF   |   
-|ITP13 |	|RNF  |
-|ITP14 |	|RNF  |
-|ITP15 |	|RNF  |
+|ITP06 |Aplicativo permite buscar, filtrar, ordernar os produtos	|RF   |  
+|ITP07 |Aplicativo permite consultar os dados específicos de um determinado produto |RF   |   
+|ITP08 |Aplicativo permite criar e consultar métricas através de gráficos |RF  |
+|ITP09 |Aplicativo permite realizar perguntas via prompt para entender previsões sobre determinado produto	|RF  |
+|ITP10 |Aplicativo deve retornar respostas feitas via prompt com informações no qual estão no nível de permissão do usuário	|RNF  |
+|ITP11 |Aplicativo deve validar o cadastro dos produtos  	|RNF   |  
+|ITP12 |Aplicativo permite uma modo de visualização (preview) ao usuário	|RF   |   
+|ITP13 |Aplicativo permite um gerenciamento sobre as permissões dos usuários	|RF  |
+|ITP14 |Aplicativo permite consultar os possíveis erros encontrados pela inteligência artificial	|RF  |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah)
 
