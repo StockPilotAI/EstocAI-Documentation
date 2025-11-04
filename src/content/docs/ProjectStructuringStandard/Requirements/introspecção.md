@@ -1,6 +1,11 @@
+---
+title: Introspecção
+---
+
 # Introspecção
 
 ## Introdução
+
 Quando falamos em técnicas de elicitação, de acordo com Goguen (1994), a técnica de introspecção é uma das mais utilizadas, já que depende apenas do avaliador. A introspecção é uma técnica na qual a atividade é baseada em "imaginar" como o sistema deve ser e se comportar para solucionar um determinado problema do usuário.
 
 Como foi dito, esta técnica é realizada pelo próprio avaliador, levando em consideração um ponto de vista particular. Isso nos traz benefícios e vantagens ao utilizar esta técnica, que são:
@@ -10,11 +15,13 @@ Como foi dito, esta técnica é realizada pelo próprio avaliador, levando em co
 **Desvantagens**: O avaliador pode estar fortemente vinculado ao uso do sistema, o que pode dificultar a visão na perspectiva de algum outro tipo de usuário.
 
 ## Metodologia
+
 Para a preparação da técnica, foi necessário elaborar mentalmente um cenário de como o sistema deve ser para um usuário que busca resolver um determinado problema.
 
 O cenário imaginário elaborado foi: "Um gerente de uma empresa pretende usar o sistema de gestão de estoques EstocAI para gerenciar os produtos que existem na empresa, conseguir consultar previsões sobre a entrada e saída de produtos, detectar possíveis erros dentro do seu gerenciamento, analisar métricas e verificar informações sobre os produtos cadastrados."
 
 ## Requisitos Elicitados
+
 Após o exercício mental de utilizar o software do EstocAI para solucionar o problema de um usuário imaginário, conseguimos eliciar os requisitos apresentados na Tabela 1. Identificamos cada requisito por uma sigla formada por "ITP" + um número. Para representar o tipo do requisito, serão usadas as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional.
 
 <center>
@@ -23,26 +30,27 @@ Após o exercício mental de utilizar o software do EstocAI para solucionar o pr
 
 | **Identificador** | **Requisitos** | **Tipo** |
 |--------------|-------------|-----|
-|ITP01 |Login pela UI ou por serviço de terceiros  		|RF |  
-|ITP02 |Aplicativo permite criar, listar, deletar e atualizar os produtos								|RF   |   |
-|ITP03 |Aplicativo possui interface simples 													|RNF        |
-|ITP04 |Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF  |
-|ITP05 |Aplicativo possui modo escuro/claro																|RNF  |
-|ITP06 |Aplicativo permite buscar, filtrar, ordernar os produtos	|RF   |  
-|ITP07 |Aplicativo permite consultar os dados específicos de um determinado produto |RF   |   
+|ITP01 |Login pela UI ou por serviço de terceiros    |RF |  
+|ITP02 |Aplicativo permite criar, listar, deletar e atualizar os produtos        |RF   |   |
+|ITP03 |Aplicativo possui interface simples              |RNF        |
+|ITP04 |Aplicativo deve evitar erros e telas brancas durante o uso        |RNF  |
+|ITP05 |Aplicativo possui modo escuro/claro                |RNF  |
+|ITP06 |Aplicativo permite buscar, filtrar, ordernar os produtos |RF   |  
+|ITP07 |Aplicativo permite consultar os dados específicos de um determinado produto |RF   |
 |ITP08 |Aplicativo permite criar e consultar métricas através de gráficos |RF  |
-|ITP09 |Aplicativo permite realizar perguntas via prompt para entender previsões sobre determinado produto	|RF  |
-|ITP10 |Aplicativo deve retornar respostas feitas via prompt com informações no qual estão no nível de permissão do usuário	|RNF  |
-|ITP11 |Aplicativo deve validar o cadastro dos produtos  	|RNF   |  
-|ITP12 |Aplicativo permite uma modo de visualização (preview) ao usuário	|RF   |   
-|ITP13 |Aplicativo permite um gerenciamento sobre as permissões dos usuários	|RF  |
-|ITP14 |Aplicativo permite consultar os possíveis erros encontrados pela inteligência artificial	|RF  |
+|ITP09 |Aplicativo permite realizar perguntas via prompt para entender previsões sobre determinado produto |RF  |
+|ITP10 |Aplicativo deve retornar respostas feitas via prompt com informações no qual estão no nível de permissão do usuário |RNF  |
+|ITP11 |Aplicativo deve validar o cadastro dos produtos   |RNF   |  
+|ITP12 |Aplicativo permite uma modo de visualização (preview) ao usuário |RF   |
+|ITP13 |Aplicativo permite um gerenciamento sobre as permissões dos usuários |RF  |
+|ITP14 |Aplicativo permite consultar os possíveis erros encontrados pela inteligência artificial |RF  |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah)
 
 </center>
 
 ## Bibliografia
+>
 > Elicitação de Requisitos, PUC-Rio. Disponível em: [https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF).<br>
 > Luiz Eduardo Galvão Martins. Uma Metodologia de Elicitação de Requisitos de Software Baseada na Teoria da Atividade. Unicamp, 2001. <br>
 > Marcelo Medeiros Eler. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação. Universidade de São Paulo, 2006. Disponível em: [https://edisciplinas.usp.br/pluginfile.php/7993139](https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF).<br>
