@@ -1,14 +1,16 @@
 # Entrevista
 
 ## Introdução
+
 A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman1, 1998). A entrevista permite uma interação direta com os usuários para compreender suas necessidades e expectativas em relação ao sistema.
 
 ## Metodologia
+
 A metodologia adotada para a elaboração deste artefato de elicitação de requisitos envolveu uma combinação de questões com foco na experiência atual dos usuários com aplicativos de músicas, sendo os recursos mais utilizados, problemas, experiência e impacto deste tipo de aplicação no seu dia a dia.
 
-As entrevistas foram realizadas no dia 06/04/2024 e contou com a participação de dois usuários de aplicativos de música, que foram entrevistado pelo Vinícius Mendes, acompanhado do escrivão Luis Miranda, onde ambos construíram o roteiro juntos. Na tabela 1 pode ser visto o cronograma executado das entrevistas e as informações sobre cada uma. 
+As entrevistas foram realizadas no dia 06/04/2024 e contou com a participação de dois usuários de aplicativos de música, que foram entrevistado pelo Vinícius Mendes, acompanhado do escrivão Luis Miranda, onde ambos construíram o roteiro juntos. Na tabela 1 pode ser visto o cronograma executado das entrevistas e as informações sobre cada uma.
 
-Antes do início da entrevista foi lido um termo de consentimento ao participante, para que assim possamos coletar os seus dados de forma ética e consentida, além de explicar também os motivos e objetivos da entrevista. 
+Antes do início da entrevista foi lido um termo de consentimento ao participante, para que assim possamos coletar os seus dados de forma ética e consentida, além de explicar também os motivos e objetivos da entrevista.
 
 A entrevista foi projetada com um roteiro de 19 perguntas abertas e fechadas, sendo 4 delas para definição de perfil e 15 com foco em elicitar requisitos em relação a aplicativos de música, assim explorando a experiência dos usuários e suas necessidades. A plataforma utilizada foi o Teams para a gravação e condução da entrevista.
 
@@ -37,40 +39,76 @@ A tabela 2 contém as informações dos entrevistados, que foram no geral homens
 
 | Entrevistado | Gênero | Idade | Ocupação |
 |--------------|--------|-------|----------|
-|Lucas de Paula| Homem cis| 18| Estudante |
-|Mateus Souza Santana|Homem cis| 23 | Estudante e estágio na CAESB|
+| <Nome-do-Entrevistado> | Homem cis | 18 | Estudante |
+| <Nome-do-Entrevistado> | Homem cis | 23 | Estudante e estágio na CAESB |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah)
 
-## Roteiro
-A estrutura da entrevista realizada foi de:
- - Apresentação - Parte essa onde o apresentador e o escrivão se apresentaram para o entrevistado e foi feita a leitura do termo de consentimento
- - Definição do Perfil - Etapa feita de perguntas para conhecer o perfil do entrevistado
- - Entrevista Principal - Etapa onde as perguntas focadas sobre experiência e necessidades do usuário em relação a aplicativos de música foram feitas
- - Comentário - Etapa feita para o entrevistado comentar algo que deixamos de foram ou que ele se sentiu a vontade de compartilhar
- - Conclusão - Final da entrevistado onde o entrevistador e o escrivão agradeceram o entrevistado pelo seu tempo e o término da gravação e entrevista. 
+## Roteiro de Entrevista
 
-Logo abaixo será apresentado a tabela 3 que contém a estrutura das perguntas utilizadas para conduzir a entrevista.
+### 1. Estrutura da Entrevista
+
+A estrutura da entrevista será:
+
+#### Apresentação (Aprox. 5 min)
+
+- O entrevistador e o escrivão (anotador) se apresentam.
+- Explicação dos objetivos da entrevista (entender a experiência e necessidades com gerenciamento de estoque).
+- Leitura e aceite do termo de consentimento (informando sobre gravação, anonimato e uso dos dados).
+
+#### Entrevista Principal (Aprox. 20-30 min)
+
+- Perguntas focadas sobre a experiência, processos, desafios e necessidades do usuário em relação ao gerenciamento de estoque (requisitos funcionais e não-funcionais).
+
+#### Comentários Finais (Aprox. 5 min)
+
+- Espaço para o entrevistado adicionar qualquer informação que considere relevante e que não tenha sido perguntada.
+
+#### Conclusão (Aprox. 2 min)
+
+- Agradecimento pelo tempo e contribuição do entrevistado.
+- Confirmação dos próximos passos (se houver) e encerramento da gravação.
+
+---
+
+### 2. Perguntas da Entrevista
+
+Abaixo está a estrutura detalhada das perguntas para conduzir a entrevista.
 
 <center>
 
-<p align="center"><b>Tabela 03</b> - Estrutura das perguntas. </p>
+<p align="center"><b>Tabela 03</b> - Perguntas da Entrevista. </p>
 
-| Partes     | Perguntas                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Perfil     | 1. Qual o seu nome?<br>    <br>2. Quantos anos você tem?<br>    <br>3. Qual gênero você se identifica?<br>    <br>4. Qual a sua profissão?                                                                                                                                                                                                                                                                         |
-| O que      | 1. Quais recursos você espera em um aplicativo de música? (Resposta aberta)<br>    <br>2. Quais recursos você mais utiliza? (Resposta aberta)<br>    <br>3. Quais problemas você já teve com aplicativos de música? (Resposta aberta)                                                                                                                                                                              |
-| Quando     | 1. Quando você quer procurar uma música, você utiliza aplicativos de música? (Sim/Não)<br>    <br>2. Quando você precisa saber da letra de uma música, onde você procura? (Resposta aberta)                                                                                                                                                                                                                        |
-| Como       | 1. Como você procura saber das novidades dos seus artistas favoritos? (Resposta aberta)<br>    <br>2. Você recomendaria músicas por aplicativo de música? (Sim/Não)<br>    <br>3. Como você procura uma música caso não saiba o nome dela ( gostaria que tivesse opção de filtros? ( álbum, etc )) (Resposta aberta)<br>    <br>4. Como você procura saber das músicas mais tocadas do momentos? (Pergunta aberta) |
-| Onde       | 1. Onde você guarda suas músicas preferidas? (Resposta aberta)<br>    <br>2. Onde você escuta música? (Resposta aberta)<br>    <br>3. Por onde você explora novos gêneros musicais? (Resposta aberta)                                                                                                                                                                                                              |
-| Quem       | 1. Quem são as pessoas que você espera que utilizem o aplicativo de música? (Ouvintes/Músicos/Produtores/Todos esses)                                                                                                                                                                                                                                                                                              |
-| Por quê    | 1. Os aplicativos de escutar música impactaram você de alguma forma? (Pergunta aberta)<br>    <br>2. Você acha que uma experiência personalizada ( focada para seus gostos ) em um aplicativo de música é importante? (Sim/Não)                                                                                                                                                                                    |
-| Comentário | 1. Você sentiu que deixamos de aborda alguma parte das suas experiências/necessidades? Se sim, quais?                                                      |
+| Parte | Tópico | Perguntas |
+|-------|--------|-----------|
+| **Entrevista Principal** | **Requisitos Funcionais** | 1. O que você acha do seu software de gerenciar estoque atual? *(aberta)* |
+| | | 2. Quais ferramentas você utiliza atualmente para gerenciar o estoque? *(aberta)* |
+| | | 3. Quais hábitos você tem ao gerenciar o seu estoque? *(aberta)* |
+| | | 4. Qual a sua maior dificuldade hoje em se planejar se baseando no seu estoque? *(aberta)* |
+| | | 5. Quais problemas inesperados ocorrem com frequência em relação ao seu estoque? *(aberta)* |
+| | | 6. Como você toma decisões atualmente sobre reposição ou descarte de produtos? *(fechada)* |
+| | | 7. Que tipo de automação ou suporte você gostaria de ter no gerenciamento? *(fechada)* |
+| | | 8. Quais funcionalidades de um gerenciador de estoque (software ou ferramenta pessoal) você não vive mais sem? *(aberta)* |
+| | | 9. Como você se planeja para evitar rupturas ou excesso de estoque? *(fechada)* |
+| | | 10. Como você acompanha a performance dos seus produtos? (por exemplo, se estão se esgotando, se estão com baixa rotatividade, etc.) *(fechada)* |
+| | | 11. Quem mais interage com o sistema de estoque na sua empresa? *(aberta, identificar atores que participam no processo)* |
+| | | 12. Que informações você precisa consultar com mais frequência? *(aberta)* |
+| | | 13. Que integrações com outros sistemas você precisa? *(fechada)* |
+| | **Requisitos Não Funcionais** | 1. Normalmente, qual é o volume máximo de produtos que você precisa gerenciar? |
+| | | 2. Quem deve ter acesso a relatórios financeiros do estoque? |
+| | | 3. Que tipos de dispositivos sua equipe utiliza no dia a dia? |
+| | | 4. Você precisa acessar o sistema remotamente ou apenas localmente? |
+| | | 5. Você tem conexão de internet estável no local de trabalho? |
+| | | 6. Quais outros sistemas você utiliza que precisam trocar informações com o gerenciador de estoque? |
+| | | 7. Você precisa importar ou exportar dados de outros sistemas? |
+| **Comentários Finais** | **Fechamento** | 1. Você sentiu que deixamos de abordar alguma parte importante das suas experiências ou necessidades sobre esse tema? |
+| | | 2. Há algo mais que você gostaria de adicionar? |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Requisitos Elicitados
-Após a realização da entrevista com os usuários de aplicativos de músicas, foi possível elicitar requisitos apresentados na Tabela 4. Onde cada requisito é classificado por uma sigla formada por "ENT" + um número, em que "ENT" é uma sigla para entrevista, e para representar o tipo de requisito, será usado as siglas "RF" ou "RNF" que representam os Requisitos Funcionais e Não Funcionais. 
+
+Após a realização da entrevista com os usuários de aplicativos de músicas, foi possível elicitar requisitos apresentados na Tabela 4. Onde cada requisito é classificado por uma sigla formada por "ENT" + um número, em que "ENT" é uma sigla para entrevista, e para representar o tipo de requisito, será usado as siglas "RF" ou "RNF" que representam os Requisitos Funcionais e Não Funcionais.
 
 <center>
 
