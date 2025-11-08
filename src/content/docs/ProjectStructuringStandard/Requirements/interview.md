@@ -79,7 +79,6 @@ A estrutura da entrevista será:
 
 Abaixo está a estrutura detalhada das perguntas para conduzir a entrevista.
 
-<center>
 
 <p align="center"><b>Tabela 03</b> - Perguntas da Entrevista. </p>
 
@@ -113,8 +112,6 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](htt
 ## Requisitos Elicitados
 
 Após a realização da entrevista com os usuários de aplicativos de músicas, foi possível elicitar requisitos apresentados na Tabela 4. Onde cada requisito é classificado por uma sigla formada por "ENT" + um número, em que "ENT" é uma sigla para entrevista, e para representar o tipo de requisito, será usado as siglas "RF" ou "RNF" que representam os Requisitos Funcionais e Não Funcionais.
-
-<center>
 
 <p align="center"><b>Tabela 04</b> - Requisitos elicitados. </p>
 
