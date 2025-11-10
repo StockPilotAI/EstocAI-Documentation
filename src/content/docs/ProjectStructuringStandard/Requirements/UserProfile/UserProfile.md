@@ -29,6 +29,8 @@ Após uma análise das respostas obtidas pelo questionário, foi traçado um Per
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+### Histórico de Versão
+
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |
 | 1.0    | 09/11/2025 | Criação do documento |  [Luis Miranda](https://github.com/LuisMiranda10) |  [Vinícius Mendes](https://github.com/yabamiah)    |
