@@ -146,3 +146,9 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](htt
 ## Referênciaa Bibliográfica
 
 > SEIDMAN, I. Interviewing as Qualitative Research: a guide for researchers in Education and the Social Sciences. New York, NY: Teachers College Press, 1998
+
+### Histórico de Versão
+
+| Versão | Data       | Descrição                                               | Autores                        | Revisores |
+| ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |
+| 1.0    | 07/11/2025 | Criação do documento | [Vinícius Mendes](https://github.com/yabamiah) |  [Luis Miranda](https://github.com/LuisMiranda10)    |
