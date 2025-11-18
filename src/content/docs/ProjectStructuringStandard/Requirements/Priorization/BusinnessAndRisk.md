@@ -91,4 +91,4 @@ Estes requisitos devem ser implementados apenas se houver tempo e recursos dispo
 
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |
-| 1.0    | 17/11/2025 | Criação do documento |  [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah) |     |
+| 1.0    | 17/11/2025 | Criação do documento |  [Luis Miranda](https://github.com/LuisMiranda10)  | [Vinícius Mendes](https://github.com/yabamiah)    |
