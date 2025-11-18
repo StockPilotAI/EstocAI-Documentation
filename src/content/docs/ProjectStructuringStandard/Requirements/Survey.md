@@ -40,6 +40,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](htt
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+### Histórico de Versão
+
 | Versão | Data       | Descrição                                               | Autores                        | Revisores |
 | ------ | ---------- | ------------------------------------------------------- | ------------------------------ | --------- |
 | 1.0    | 17/11/2025 | Criação do documento |  [Luis Miranda](https://github.com/LuisMiranda10) |  [Vinícius Mendes](https://github.com/yabamiah)    |
