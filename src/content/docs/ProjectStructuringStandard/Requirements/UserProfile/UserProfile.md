@@ -14,7 +14,7 @@ Com o propósito de aprofundar a compreensão dos utilizadores do aplicativo, to
 
 ## Metodologia 
 
-A definição do perfil de usuário do software EstocAI foi elaborada por meio de um processo que envolveu a aplicação de um [Questionário](). Essa estratégia adotada desempenhou um papel crucial na definição do perfil de usuário da plataforma. Ao empregar questionários, obtivemos uma compreensão profunda das necessidades e preferências dos potenciais usuários. Esses instrumentos forneceram dados quantitativos de valor inestimável, oferecendo uma perspectiva numérica sólida sobre as expectativas da comunidade em relação ao aplicativo em questão.
+A definição do perfil de usuário do software EstocAI foi elaborada por meio de um processo que envolveu a aplicação de um [Questionário](https://forms.gle/R6iWphRcX7Cvtcad8). Essa estratégia adotada desempenhou um papel crucial na definição do perfil de usuário da plataforma. Ao empregar questionários, obtivemos uma compreensão profunda das necessidades e preferências dos potenciais usuários. Esses instrumentos forneceram dados quantitativos de valor inestimável, oferecendo uma perspectiva numérica sólida sobre as expectativas da comunidade em relação ao aplicativo em questão.
 
 ## Definição do Perfil de Usuário
 
