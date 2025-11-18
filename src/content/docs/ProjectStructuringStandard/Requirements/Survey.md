@@ -6,8 +6,6 @@ sidebar:
     variant: caution
 ---
 
-# Questionário
-
 ## Introdução
 
 Os questionários são instrumentos valiosos de pesquisa que possibilitam a coleta eficaz de dados quantitativos e qualitativos. São ferramentas flexíveis para explorar as opiniões, comportamentos e preferências de um determinado público-alvo, exigindo um entendimento claro dos objetivos da pesquisa para formular perguntas significativas. Neste contexto, o foco principal deste questionário foi compreender sobre os gargalos/dificuldades ao gerenciar um sistema de gestão de estoque, a forma de utilização do aplicativo, identificar as funcionalidades mais populares e aquelas que podem ser potencialmente acrescentadas para melhorar a experiência do usuário.

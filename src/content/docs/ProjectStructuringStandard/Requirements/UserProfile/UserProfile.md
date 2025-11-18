@@ -1,12 +1,10 @@
 ---
-title: UserProfile
+title: User Profile
 sidebar:
   badge:
     text: WIP
     variant: caution
 ---
-
-# Perfil de Usuário
 
 ## Introdução 
 

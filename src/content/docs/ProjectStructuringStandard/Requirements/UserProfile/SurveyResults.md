@@ -2,8 +2,6 @@
 title: Survey Results
 ---
 
-# Questionário
-
 ## Introdução
 A utilização de questionários como parte do processo de criação de perfis de usuário oferece uma série de vantagens notáveis. Eles permitem a coleta de informações de maneira estruturada e quantificável, o que facilita a análise e a interpretação dos dados obtidos. Além disso, questionários podem ser administrados a um grande número de respondentes de forma eficiente, tornando possível a criação de perfis de usuário representativos de uma base diversificada de usuários potenciais. 
 

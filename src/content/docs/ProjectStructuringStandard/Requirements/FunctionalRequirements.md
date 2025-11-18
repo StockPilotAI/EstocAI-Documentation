@@ -6,8 +6,6 @@ sidebar:
     variant: caution
 ---
 
-# Requisitos Funcionais
-
 ## Introdução
 
 Nesta página está listado todos requisitos funcionais obtidos com a etapa de elicitação, fornecendo uma melhor compreensão. Com isso, temos a Rastreabilidade, que tem capacidade de identificar, documentar e acompanhar as relações e conexões entre os diversos elementos dos requisitos ao longo do ciclo de vida. Essa prática tem como objetivo garantir a consistência, a compreensão e a gerência eficaz dos requisitos, permitindo que as mudanças sejam rastreadas e controladas de forma sistemática

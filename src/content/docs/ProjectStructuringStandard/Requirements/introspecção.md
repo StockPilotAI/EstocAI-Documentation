@@ -1,8 +1,6 @@
 ---
-title: Introspecção
+title: Introspection
 ---
-
-# Introspecção
 
 ## Introdução
 

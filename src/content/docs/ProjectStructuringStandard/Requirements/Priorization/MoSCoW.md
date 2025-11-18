@@ -2,8 +2,6 @@
 title: MoSCoW
 ---
 
-# MoSCoW
-
 ## Introdução
 
 A técnica MoSCoW é uma metodologia amplamente utilizada para priorização de requisitos em projetos de desenvolvimento de software. O nome MoSCoW é um acrônimo que representa quatro categorias de priorização: **M**ust have (Deve ter), **S**hould have (Deveria ter), **C**ould have (Poderia ter) e **W**on't have (Não terá neste momento).

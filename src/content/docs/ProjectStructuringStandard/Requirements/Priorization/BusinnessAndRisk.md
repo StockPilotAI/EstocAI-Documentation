@@ -2,8 +2,6 @@
 title: Business x Risk
 ---
 
-# Valor de Negócio x Risco
-
 ## Introdução
 
 A priorização de requisitos é uma atividade essencial no desenvolvimento de software, pois auxilia na tomada de decisões sobre quais funcionalidades devem ser implementadas primeiro. A técnica de Valor de Negócio x Risco permite avaliar os requisitos considerando duas dimensões fundamentais: o valor que cada requisito agrega ao negócio e o risco associado à sua implementação.
