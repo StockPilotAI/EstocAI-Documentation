@@ -9,6 +9,11 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'EstocAI',
+			logo: {
+				light: './src/assets/images/estocai-web-light-logo.png',
+				dark: './src/assets/images/estocai-web-dark-logo.png',
+				replacesTitle: true,
+			},
 			plugins: [starlightThemeRapide()],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			customCss: [
